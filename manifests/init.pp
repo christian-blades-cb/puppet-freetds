@@ -1,4 +1,6 @@
 # This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+class freetds {
+  include 'homebrew'
+
+  package { 'freetds': }
 }
