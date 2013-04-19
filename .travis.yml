@@ -6,3 +6,6 @@ rvm:
 notifications:
   campfire:
     secure: "Mjuxu7m5T9G1JvUVrvW47XacYEiP+LiMCufTC+AFtMlMahLk/PQ6iml8P8+G\nQBmWsY3CdsEDCu93T/MIiuW/58LLgPe7HcJ+XlmO1izyjBj7Pu4O7W9wAc35\nEgbEnIvZA7Uimb587xygD8X5O26GexuDfRaayySkfOvqIM0GA44="
+env:
+  global:
+    secure: "dzM4EyPR2g68uzD3kCSZem5RLNgviamp1v8OzS7fiEQMVQExVkRk9uvwUtIl\nAp9dJAW3DUyGT/LiLoUWj4Wi1dSLCMnBe+8XOcBDuvc3cluUT1oP+BLvll7s\nVPLYHnmGHtRwJIegWTuYMytE9s7Gq2EHMfzm60vpSTexc3Zs7qw="
