@@ -3,5 +3,22 @@
 /spec/fixtures/.librarian
 /spec/fixtures/.tmp
 /spec/fixtures/Puppetfile.lock
+!/spec/fixtures/modules/freetds
 /spec/fixtures/modules
 /spec/fixtures/vendor
+### /Users/cblades/.gitignore-boilerplates/Global/Emacs.gitignore
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+
